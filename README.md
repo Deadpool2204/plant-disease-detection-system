@@ -1,5 +1,6 @@
 # plant-disease-detection-system
 It can detect disease happens to the plant with help of pictures of that plants leaf 
+dataset link:https://drive.google.com/drive/folders/1okjz_XW9UUwRLb_OsbeHGqD7B3CgPgEa?usp=sharing
 
 
 # Plant-Disease-Detection-System-for-Sustainable-Agriculture-new
